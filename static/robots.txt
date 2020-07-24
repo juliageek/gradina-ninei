@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /startpage
+Sitemap: https://gradina-ninei.ro/sitemap.xml

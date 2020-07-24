@@ -1,0 +1,117 @@
+
+@font-face {
+  font-family: 'Roboto Black';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Black'), local('Roboto-Black'), url('../assets/fonts/Roboto-Black.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto BlackItalic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto BlackItalic'), local('Roboto-BlackItalic'), url('../assets/fonts/Roboto-BlackItalic.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Bold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url('../assets/fonts/Roboto-Bold.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto BoldItalic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto BoldItalic'), local('Roboto-BoldItalic'), url('../assets/fonts/Roboto-BoldItalic.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Italic'), local('Roboto-Italic'), url('../assets/fonts/Roboto-Italic.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Light';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Light'), local('Roboto-Light'), url('../assets/fonts/Roboto-Light.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto LightItalic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto LightItalic'), local('Roboto-LightItalic'), url('../assets/fonts/Roboto-LightItalic.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Medium';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url('../assets/fonts/Roboto-Medium.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Medium';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url('../assets/fonts/Roboto-Medium.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto MediumItalic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto MediumItalic'), local('Roboto-MediumItalic'), url('../assets/fonts/Roboto-MediumItalic.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Regular'), local('Roboto-Regular'), url('../assets/fonts/Roboto-Regular.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto Thin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto Thin'), local('Roboto-Thin'), url('../assets/fonts/Roboto-Thin.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Roboto ThinItalic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Roboto ThinItalic'), local('Roboto-ThinItalic'), url('../assets/fonts/Roboto-ThinItalic.ttf') format('ttf');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}

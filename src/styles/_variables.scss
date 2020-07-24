@@ -1,0 +1,27 @@
+$white: #fff;
+$grey-light: #eafaff;
+$grey-light-alt: #dbf2f9;
+
+$mint-cream: #ebf8f2ff;
+$wintergreen-dream: #6a8f7eff;
+$pale-pink: #fdd8d8ff;
+$pictorial-carmine: #ca054dff;
+$dark-jungle-green: #0d1b1eff;
+
+// Breakpoints
+$s-breakpoint: rem(375px);
+$sm-breakpoint: rem(500px);
+$m-breakpoint: rem(768px);
+$l-breakpoint: rem(1024px);
+
+// hamburger menu
+$hamburger-padding-x: 0;
+$hamburger-padding-y: 0;
+$hamburger-layer-width: 25px;
+$hamburger-layer-height: 3px;
+$hamburger-layer-spacing: 5px;
+$hamburger-layer-color: $wintergreen-dream;
+$hamburger-layer-border-radius: 4px;
+$hamburger-hover-opacity: 0.7;
+$hamburger-active-layer-color: $hamburger-layer-color;
+$hamburger-active-hover-opacity: $hamburger-hover-opacity;
